@@ -1,0 +1,15 @@
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/bin/Debug/net9.0/Lab3CSharp
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/bin/Debug/net9.0/Lab3CSharp.deps.json
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/bin/Debug/net9.0/Lab3CSharp.runtimeconfig.json
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/bin/Debug/net9.0/Lab3CSharp.dll
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/bin/Debug/net9.0/Lab3CSharp.pdb
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.AssemblyInfoInputs.cache
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.AssemblyInfo.cs
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.csproj.CoreCompileInputs.cache
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.sourcelink.json
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.dll
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/refint/Lab3CSharp.dll
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.pdb
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/Lab3CSharp.genruntimeconfig.cache
+/home/user/repos/lab3csharp25-vkhalash/Lab3CSharp/obj/Debug/net9.0/ref/Lab3CSharp.dll
